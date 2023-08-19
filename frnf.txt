@@ -1,2 +1,9 @@
 github kollam nice aaa 
+<<<<<<< HEAD
+i am irin sunny
+=======
+
+im delna
+>>>>>>> a557c7491c5b9c50deb5f72ce3e18a102cc2c4a7
+
 i am irin sunny
